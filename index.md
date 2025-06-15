@@ -1,8 +1,9 @@
 ---
 layout: home
-author_profile: true
+title: "Jim Knochelmann"
+show_sidebar: true
 ---
 
-Welcome to my personal site.
+Welcome! I'm Jim Knochelmann, a DevSecOps Engineer. Explore my blog, projects, and more.
 
-I’m a DevSecOps engineer passionate about building secure automation pipelines, improving cloud security posture, and empowering teams with proactive security tooling.
+I’m passionate about building secure automation pipelines, improving cloud security posture, and empowering teams with proactive security tooling.

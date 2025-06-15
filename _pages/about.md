@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: single
 title: About
 permalink: /about/
+show_sidebar: true
 ---
 
 I'm Jim, a DevSecOps engineer with over 10 years in software and security engineering. I specialize in:

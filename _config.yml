@@ -1,3 +1,5 @@
+remote_theme: "mmistakes/minimal-mistakes"
+
 title: Jim Knochelmann
 description: DevSecOps Engineer Portfolio, Blog, and Security Tools
 url: "https://uncle13013.github.io" # update with your actual GitHub Pages URL
@@ -49,3 +51,8 @@ kramdown:
 # Minimal Mistakes settings
 minimal_mistakes_skin: "air" # or "default", "dark", etc.
 search: true
+
+show_sidebar: true
+
+plugins:
+  - jekyll-remote-theme
