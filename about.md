@@ -60,4 +60,4 @@ Junior Intelligence Analyst
 
 ---
 
-[Download my full resume (PDF)](/resume.pdf) <!-- Replace with your actual resume file -->
+[Download my resume (PDF)](https://jims-resume.s3.us-east-1.amazonaws.com/ResumeJuly2025.pdf)
