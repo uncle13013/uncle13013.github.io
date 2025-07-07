@@ -6,6 +6,8 @@ permalink: /about/
 
 # About Me
 
+<a href="https://jims-resume.s3.us-east-1.amazonaws.com/ResumeJuly2025.pdf" class="btn big-btn" target="_blank" rel="noopener">⬇️ Download My Resume (PDF)</a>
+
 DevSecOps Engineer with 10+ years of experience building secure, automated CI/CD pipelines, managing cloud infrastructure, and leading security initiatives. I combine technical depth with risk analysis skills developed as a Navy Intelligence Analyst to deliver resilient, secure systems.
 
 ---
@@ -57,7 +59,3 @@ Junior Intelligence Analyst
 - B.S. Computer Science — University of Kentucky (2012)
 - CISSP — ISC² (2023)
 - AWS Certified Cloud Practitioner (2025)
-
----
-
-[Download my resume (PDF)](https://jims-resume.s3.us-east-1.amazonaws.com/ResumeJuly2025.pdf)
