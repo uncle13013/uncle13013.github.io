@@ -1,58 +1,46 @@
-remote_theme: "mmistakes/minimal-mistakes"
-
 title: Jim Knochelmann
-description: DevSecOps Engineer Portfolio, Blog, and Security Tools
-url: "https://uncle13013.github.io" # update with your actual GitHub Pages URL
-logo: /assets/images/profile.jpg # path to your profile picture
+description: "DevSecOps Engineer | Cloud Security Expert | Automation Enthusiast"
+url: "https://uncle13013.github.io"
+baseurl: ""
 
-# Navigation menu
-navigation:
-  - title: "Home"
-    url: /
-  - title: "About"
-    url: /about/
-  - title: "Blog"
-    url: /blog/
+# Build settings
+markdown: kramdown
+theme: minima
+permalink: /:categories/:year/:month/:day/:title/
 
-# Sidebar profile
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Author details
 author:
   name: "Jim Knochelmann"
-  avatar: "/assets/images/profile.jpg" # place your profile picture here
-  bio: "DevSecOps Engineer | Cloud Security | Automation"
-  location: "Your City, Country"
-  links:
-    - label: "GitHub"
-      icon: "fab fa-github"
-      url: "https://github.com/uncle13013"
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://linkedin.com/in/uncle13013"
+  email: "your.email@domain.com"
+  
+# Social links
+github_username: uncle13013
+linkedin_username: uncle13013
+twitter_username: your_twitter
 
-# SEO and meta tags
-seo:
-  type: "Person"
-  name: "Jim Knochelmann"
-  description: "DevSecOps Engineer Portfolio and Blog"
-  twitter:
-    username: "your_twitter_handle"
-    card: "summary_large_image"
-  facebook:
-    publisher: "your_facebook_page"
-  google_site_verification: "your_google_verification_code"
+# Navigation
+header_pages:
+  - index.md
+  - about.md
+  - skills.md
+  - portfolio.md
+  - blog.md
+  - contact.md
 
-# Syntax highlighting
-highlighter: rouge
-markdown: kramdown
-kramdown:
-  syntax_highlighter: rouge
-  syntax_highlighter_opts:
-    css_class: 'highlight'
-
-# Minimal Mistakes settings
-minimal_mistakes_skin: "air" # or "default", "dark", etc.
-search: true
-
-show_sidebar: true
-
-plugins:
-  - jekyll-remote-theme
+# Exclude files
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor/
+  - _site/
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - node_modules/
+  - "*.gemspec"

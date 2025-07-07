@@ -1,14 +1,7 @@
 ---
-layout: single
+layout: page
 title: "About Me"
 permalink: /about/
-author_profile: true
-header:
-  overlay_color: "#333"
-  overlay_filter: "0.5"
-toc: true
-toc_label: "Navigation"
-toc_icon: "cog"
 ---
 
 ## Welcome! 👋
