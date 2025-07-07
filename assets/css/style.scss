@@ -194,6 +194,8 @@ li::marker {
 
 .site-footer p {
   color: $text-secondary !important;
+  white-space: nowrap;
+  text-align: center;
 }
 
 /* Blog posts */
@@ -370,7 +372,7 @@ body::before {
   overflow: hidden;
   border-right: 3px solid $accent-color;
   white-space: nowrap;
-  animation: typing 3s steps(50, end), blink-caret 1s step-end infinite;
+  animation: typing 3s steps(50, end) 1 forwards, blink-caret 1s step-end 3;
   display: inline-block;
 }
 
@@ -380,7 +382,7 @@ body::before {
 }
 
 @keyframes blink-caret {
-  from, to { border-color: transparent; }
+  0%, 100% { border-color: transparent; }
   50% { border-color: $accent-color; }
 }
 

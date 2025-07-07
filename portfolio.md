@@ -6,20 +6,11 @@ permalink: /portfolio/
 
 # Projects
 
-Here are some things I've worked on or am currently exploring:
+A few things I’m currently exploring and building:
 
-## Current Work
-
-- **Security Automation**: Building scripts and tools to streamline security processes
-- **Cloud Infrastructure**: Working with secure cloud deployments and configurations
-- **DevSecOps Integration**: Exploring ways to better integrate security into development workflows
-
-## Areas of Interest
-
-- Container security and Kubernetes configurations
-- Infrastructure as Code security best practices  
-- Automated compliance and security scanning
-- Open source security tools and contributions
+- **AI in Developer Workflows:** Using tools like GitHub Copilot to better understand how developers leverage AI in real-world coding and automation.
+- **Kubernetes Home Lab:** Building and maintaining a Kubernetes cluster at home on repurposed hardware to refresh and sharpen my skills while studying for the KCA/KCS exams.
+- **Red Team & OSCP Prep:** Working through TryHackMe exercises to gain hands-on red team experience as I work toward a long-term goal of taking the OSCP exam.
 
 ---
 

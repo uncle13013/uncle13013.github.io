@@ -6,97 +6,58 @@ permalink: /about/
 
 # About Me
 
-I'm a DevSecOps engineer focused on building secure, automated systems. I work primarily with cloud infrastructure and enjoy the challenge of integrating security into development workflows.
+DevSecOps Engineer with 10+ years of experience building secure, automated CI/CD pipelines, managing cloud infrastructure, and leading security initiatives. I combine technical depth with risk analysis skills developed as a Navy Intelligence Analyst to deliver resilient, secure systems.
 
-## Background
+---
 
-I have experience working with cloud platforms, security tools, and automation technologies. I'm always learning and exploring new ways to improve security practices and share knowledge with the community.
+## Key Skills
+CI/CD • DevSecOps • Kubernetes • Jenkins • Docker • AWS • Ansible • Git • Helm • Python • Bash • Node.js • JavaScript • Linux • Terraform • SAST/DAST • Vulnerability Management • Risk Analysis • Collaboration
 
-## Interests
+---
 
-- Cloud security architecture
-- Infrastructure automation
-- Security tool development
-- Open source contributions
+## Experience Highlights
 
-## Contact
+**Personal & Professional Development**  
+_Apr 2024 – Present, Alexandria, KY_
+- Building a home lab for AI-assisted security automation and architecture analysis
+- Developed a trivia game using Jeopardy-style prompts and LLM-based developer workflows
+- Practiced mindfulness and intentional communication to strengthen focus and effectiveness
 
-Feel free to reach out if you'd like to discuss security, automation, or potential collaborations.
+**IBM Watson – Natural Language Understanding / Watson Core**  
+_May 2018 – Apr 2024, Denver, CO_  
+Senior DevSecOps Engineer
+- Provided risk analysis and executive summaries for product releases
+- Security focal for 5+ teams, resolving issues in 20+ microservices
+- Implemented DAST/SAST scans in CI pipelines and developed Helm charts for AI microservices
+- Automated deployment and monitoring, improved productivity 5x
+- On-call for SaaS reliability, restored production APIs, mentored junior engineers
 
-[📧 Send me an email](mailto:j.knochelmann@gmail.com){: .btn .btn--primary}
-- **Open Source Contributions**: Sharing security tools and knowledge with the community
+**airSpring Software**  
+_Jan 2013 – Apr 2018, Lexington, KY_  
+DevOps Engineer
+- Designed and maintained CI/CD infrastructure for 50+ servers
+- Managed 150+ Linux servers with Ansible, reduced config drift
+- Developed features for proprietary JavaScript platform and engineered scripted solutions
 
-### Experience Highlights
+**US Navy Special Warfare Group One**  
+_Jan 2006 – May 2009, Coronado, CA_  
+All Source Intelligence Analyst
+- Supervised intel team during deployments in support of Navy SEAL operations
+- Provided daily intelligence analysis and briefings for targeting operations
 
-**Senior DevSecOps Engineer** | *2020 - Present*
-- Led implementation of organization-wide security automation framework
-- Reduced security incidents by 60% through proactive monitoring and automated remediation
-- Designed and deployed cloud-native security solutions across AWS, Azure, and GCP
+**US Navy Europe/ Sixth Fleet**  
+_May 2003 – Dec 2005, Naples, Italy_  
+Junior Intelligence Analyst
+- Analyzed and processed message traffic data into consumable intelligence for executive leadership
+- Prepared and delivered intelligence briefings and message traffic for significant maritime activity
 
-**Cloud Security Engineer** | *2018 - 2020*
-- Architected secure multi-cloud infrastructure serving millions of users
-- Implemented infrastructure-as-code practices with security controls
-- Established security compliance frameworks for SOC2 and ISO 27001
+---
 
-**Software Engineer** | *2014 - 2018*
-- Built scalable web applications and microservices
-- Introduced security best practices into development workflows
-- Mentored junior developers on secure coding practices
+## Education & Certifications
+- B.S. Computer Science — University of Kentucky (2012)
+- CISSP — ISC² (2023)
+- AWS Certified Cloud Practitioner (2025)
 
-## Core Expertise
+---
 
-### Cloud Platforms
-- **AWS**: EC2, EKS, Lambda, CloudFormation, Security Hub
-- **Azure**: AKS, Functions, ARM Templates, Security Center
-- **GCP**: GKE, Cloud Functions, Deployment Manager
-
-### Security Tools & Frameworks
-- **SAST/DAST**: SonarQube, Veracode, OWASP ZAP
-- **Container Security**: Twistlock, Aqua Security, Falco
-- **Infrastructure**: Terraform, Ansible, CloudFormation
-- **Monitoring**: Splunk, ELK Stack, Prometheus, Grafana
-
-### DevOps & Automation
-- **CI/CD**: Jenkins, GitLab CI, GitHub Actions, Azure DevOps
-- **Orchestration**: Kubernetes, Docker, Helm
-- **Configuration Management**: Ansible, Chef, Puppet
-- **Infrastructure as Code**: Terraform, Pulumi, CDK
-
-## Certifications & Education
-
-### Professional Certifications
-- AWS Certified Security - Specialty
-- Certified Kubernetes Security Specialist (CKS)
-- CISSP (Certified Information Systems Security Professional)
-- HashiCorp Terraform Associate
-
-### Education
-- **M.S. Computer Science** | University of Technology | 2014
-- **B.S. Information Systems** | State University | 2012
-
-## Philosophy & Approach
-
-> "Security is not a product, but a process. It's not something you buy, it's something you do."
-
-I believe in:
-- **Security by Design**: Building security into systems from the ground up
-- **Automation First**: If it can be automated, it should be automated
-- **Continuous Learning**: The security landscape evolves rapidly, and so must we
-- **Knowledge Sharing**: Great security comes from great teams working together
-
-## Beyond Work
-
-When I'm not securing the cloud, you can find me:
-- 🏃‍♂️ Trail running and exploring the outdoors
-- 📚 Reading about emerging security threats and technologies
-- 🛠️ Building side projects and contributing to open source
-- 🎮 Gaming and exploring virtual worlds
-- ☕ Brewing the perfect cup of coffee
-
-## Let's Connect
-
-I'm always excited to discuss cloud security, share knowledge, and collaborate on interesting projects. Whether you're looking to improve your organization's security posture or just want to chat about the latest in DevSecOps, I'd love to hear from you!
-
-[📧 Send me an email](mailto:j.knochelmann@gmail.com){: .btn .btn--primary}
-[💼 Connect on LinkedIn](https://linkedin.com/in/uncle13013){: .btn .btn--info}
-[🐙 Check out my GitHub](https://github.com/uncle13013){: .btn .btn--inverse}
+[Download my full resume (PDF)](/resume.pdf) <!-- Replace with your actual resume file -->

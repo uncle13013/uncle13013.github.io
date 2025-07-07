@@ -6,28 +6,21 @@ permalink: /skills/
 
 # Skills & Technologies
 
-## Areas of Focus
+**Cloud Application Operations**  
+AWS, Kubernetes, Docker, Helm, Ansible, Linux (Red Hat, CentOS), Terraform
 
-**Cloud Platforms**
-- AWS, Azure, GCP basics
-- Infrastructure as Code (Terraform, CloudFormation)
-- Container orchestration (Kubernetes, Docker)
+**DevSecOps & CI/CD**  
+Jenkins, Git, CI/CD pipeline design, SAST/DAST, SonarQube, OWASP ZAP, twistlock
 
-**Security Tools & Practices**
-- Security scanning and vulnerability assessment
-- Configuration management and compliance
-- Network security and monitoring
+**Security & Risk Management**  
+Vulnerability management, risk analysis, compliance, security automation, monitoring
 
-**Development & Automation**
-- Python scripting and automation
-- CI/CD pipeline integration
-- Version control and collaboration (Git)
+**Programming & Scripting**  
+Python, Bash, Node.js, JavaScript
 
-**Currently Learning**
-- Advanced Kubernetes security
-- Cloud-native security patterns
-- Security automation frameworks
+**Collaboration & Leadership**  
+Cross-team collaboration, mentoring, Scrum, documentation, executive communication
 
 ---
 
-*Always expanding my knowledge and staying current with security trends and best practices.*
+*Always learning and iterating on security, automation, and cloud operations.*

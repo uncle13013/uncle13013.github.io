@@ -14,6 +14,12 @@
   </head>
 
   <body class="layout--{{ page.layout | default: layout.layout }}">
+    <nav class="site-nav" style="width:100%;background:#111111;padding:0.5rem 0 0.5rem 0.5rem;border-bottom:2px solid #00ff41;">
+      {% for page in site.header_pages %}
+        <a class="page-link" href="{{ site.baseurl }}/{{ page | replace: '.md', '' | downcase }}">{{ page | replace: '.md','' | capitalize }}</a>
+      {% endfor %}
+    </nav>
+
     <div class="initial-content">
       {{ content }}
     </div>

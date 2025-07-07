@@ -16,7 +16,8 @@ title: "Welcome"
     <span class="terminal-title">$ whoami</span>
   </div>
   <div class="terminal-content">
-    <p>Security-focused engineer working on cloud infrastructure and automation. I build reliable, secure systems and share knowledge through code.</p>
+    <p>DevSecOps engineer with 10+ years of experience in cloud application operations, automation, and security.</p>
+    <p>I value mindful work, collaborative problem-solving, and making steady progress through deliberate iteration.</p>
   </div>
 </div>
 
