@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+This repo is for my personal github page up at https://uncle13013.github.io/ 
+
+
 <!--
 **uncle13013/uncle13013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
