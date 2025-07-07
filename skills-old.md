@@ -1,23 +1,36 @@
 ---
-layout: single
-title: "Skills & Technologies"
+layout: page
+title: "Skills"
 permalink: /skills/
-author_profile: true
-header:
-  overlay_color: "#2c3e50"
-  overlay_filter: "0.5"
-toc: true
-toc_label: "Skill Categories"
-toc_icon: "tools"
 ---
 
-## Technical Expertise Overview
+# Skills & Technologies
 
-My skill set spans across multiple domains in DevSecOps, cloud security, and infrastructure automation. Here's a comprehensive breakdown of my technical capabilities:
+## Areas of Focus
 
-## Cloud Platforms & Services
+**Cloud Platforms**
+- AWS, Azure, GCP basics
+- Infrastructure as Code (Terraform, CloudFormation)
+- Container orchestration (Kubernetes, Docker)
 
-### Amazon Web Services (AWS)
+**Security Tools & Practices**
+- Security scanning and vulnerability assessment
+- Configuration management and compliance
+- Network security and monitoring
+
+**Development & Automation**
+- Python scripting and automation
+- CI/CD pipeline integration
+- Version control and collaboration (Git)
+
+**Currently Learning**
+- Advanced Kubernetes security
+- Cloud-native security patterns
+- Security automation frameworks
+
+---
+
+*Always expanding my knowledge and staying current with security trends and best practices.*
 **Proficiency Level: Expert** ⭐⭐⭐⭐⭐
 
 - **Compute**: EC2, ECS, EKS, Lambda, Fargate

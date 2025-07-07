@@ -1,30 +1,29 @@
 ---
-layout: single
-title: "Get in Touch"
+layout: page
+title: "Contact"
 permalink: /contact/
-author_profile: true
-header:
-  overlay_color: "#27ae60"
-  overlay_filter: "0.5"
 ---
 
-## Let's Connect! 🤝
+# Get in Touch
 
-I'm always excited to discuss DevSecOps, cloud security, automation, and innovative technology solutions. Whether you're looking to collaborate on a project, need advice on security best practices, or just want to chat about the latest in cloud technology, I'd love to hear from you.
+I'd be happy to discuss security, automation, or potential collaborations.
 
-## How to Reach Me
+## Contact Information
 
-### Professional Inquiries
-For consulting, speaking engagements, or professional collaboration:
+**📧 Email**: [j.knochelmann@gmail.com](mailto:j.knochelmann@gmail.com)  
+**💼 LinkedIn**: [linkedin.com/in/jim-knochelmann](https://www.linkedin.com/in/jim-knochelmann/)  
+**🐙 GitHub**: [github.com/uncle13013](https://github.com/uncle13013)
 
-**📧 Email**: [your.email@domain.com](mailto:your.email@domain.com)  
-**💼 LinkedIn**: [linkedin.com/in/uncle13013](https://linkedin.com/in/uncle13013)
+## What I Can Help With
 
-### Open Source & Technical Discussions
-For open source projects, technical questions, or code collaboration:
+- Security architecture and best practices
+- Cloud infrastructure and automation
+- DevSecOps implementation guidance
+- Open source collaboration
 
-**🐙 GitHub**: [github.com/uncle13013](https://github.com/uncle13013)  
-**🐦 Twitter**: [@your_twitter](https://twitter.com/your_twitter)
+---
+
+*Looking forward to connecting!*
 
 ## What I Can Help With
 
@@ -85,8 +84,7 @@ If you're in the area or attending the same conference, I'm always up for a coff
 
 Stay updated with my latest thoughts, projects, and industry insights:
 
-[🐦 Follow on Twitter](https://twitter.com/your_twitter){: .btn .btn--twitter .btn--large}
-[💼 Connect on LinkedIn](https://linkedin.com/in/uncle13013){: .btn .btn--linkedin .btn--large}
+[ Connect on LinkedIn](https://www.linkedin.com/in/jim-knochelmann/){: .btn .btn--linkedin .btn--large}
 [🐙 Star on GitHub](https://github.com/uncle13013){: .btn .btn--inverse .btn--large}
 
 ---

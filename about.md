@@ -1,23 +1,29 @@
 ---
 layout: page
-title: "About Me"
+title: "About"
 permalink: /about/
 ---
 
-## Welcome! 👋
+# About Me
 
-I'm Jim Knochelmann, a passionate DevSecOps Engineer with over 10 years of experience in software engineering, cloud security, and infrastructure automation. I believe in building security into every layer of the technology stack, from code to cloud.
+I'm a DevSecOps engineer focused on building secure, automated systems. I work primarily with cloud infrastructure and enjoy the challenge of integrating security into development workflows.
 
-## What Drives Me
+## Background
 
-I'm fascinated by the intersection of security, automation, and scalability. My mission is to make security seamless and accessible for development teams while building robust, secure infrastructure that can scale with business needs.
+I have experience working with cloud platforms, security tools, and automation technologies. I'm always learning and exploring new ways to improve security practices and share knowledge with the community.
 
-## Professional Journey
+## Interests
 
-### Current Focus
-- **Cloud Security Architecture**: Designing zero-trust cloud environments
-- **DevSecOps Automation**: Building security into CI/CD pipelines
-- **Threat Modeling**: Proactive security assessment and risk mitigation
+- Cloud security architecture
+- Infrastructure automation
+- Security tool development
+- Open source contributions
+
+## Contact
+
+Feel free to reach out if you'd like to discuss security, automation, or potential collaborations.
+
+[📧 Send me an email](mailto:j.knochelmann@gmail.com){: .btn .btn--primary}
 - **Open Source Contributions**: Sharing security tools and knowledge with the community
 
 ### Experience Highlights
@@ -91,6 +97,6 @@ When I'm not securing the cloud, you can find me:
 
 I'm always excited to discuss cloud security, share knowledge, and collaborate on interesting projects. Whether you're looking to improve your organization's security posture or just want to chat about the latest in DevSecOps, I'd love to hear from you!
 
-[📧 Send me an email](mailto:your.email@domain.com){: .btn .btn--primary}
+[📧 Send me an email](mailto:j.knochelmann@gmail.com){: .btn .btn--primary}
 [💼 Connect on LinkedIn](https://linkedin.com/in/uncle13013){: .btn .btn--info}
 [🐙 Check out my GitHub](https://github.com/uncle13013){: .btn .btn--inverse}

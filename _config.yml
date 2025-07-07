@@ -13,15 +13,14 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
 
-# Author details
-author:
-  name: "Jim Knochelmann"
-  email: "your.email@domain.com"
+# Author details (commented out to remove from footer)
+# author:
+#   name: "Jim Knochelmann"
+#   email: "j.knochelmann@gmail.com"
   
-# Social links
-github_username: uncle13013
-linkedin_username: uncle13013
-twitter_username: your_twitter
+# Social links (commented out to remove from footer)
+# github_username: uncle13013
+# linkedin_username: jim-knochelmann
 
 # Navigation
 header_pages:
