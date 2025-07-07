@@ -1,17 +1,33 @@
 ---
-layout: page
-title: About
-permalink: /about/
 ---
 
-<body>
-  {% include custom-header.html %}
-  <h1>About Me</h1>
-  <p>I'm Jim, a DevSecOps engineer with over 10 years in software and security engineering. I specialize in:</p>
-  <ul>
-    <li>CI/CD security automation</li>
-    <li>Cloud-native infrastructure hardening</li>
-    <li>Threat modeling and vulnerability management</li>
-  </ul>
-  <p>Currently building a portfolio of security tools and writing about lessons learned from the field.</p>
-</body>
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
+  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="{{ site.locale | slice: 0,2 | default: "en" }}" class="no-js">
+  <head>
+    {% include head.html %}
+  </head>
+
+  <body class="layout--{{ page.layout | default: layout.layout }}">
+    <nav class="site-nav" style="width:100%;background:#111111;padding:0.5rem 0 0.5rem 0.5rem;border-bottom:2px solid #00ff41;">
+      {% for page in site.header_pages %}
+        <a class="page-link" href="{{ site.baseurl }}/{{ page | replace: '.md', '' | downcase }}">{{ page | replace: '.md','' | capitalize }}</a>
+      {% endfor %}
+    </nav>
+
+    <div class="initial-content">
+      {{ content }}
+    </div>
+
+    <div id="footer" class="page__footer">
+      <footer>
+        {% include footer.html %}
+      </footer>
+    </div>
+  </body>
+</html>

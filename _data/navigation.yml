@@ -1,6 +1,13 @@
-- title: "Home"
-  url: /
-- title: "About"
-  url: /about/
-- title: "Blog"
-  url: /blog/
+main:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
+  - title: "Projects"
+    url: /portfolio/
+  - title: "Skills"
+    url: /skills/
+  - title: "Blog"
+    url: /blog/
+  - title: "Contact"
+    url: /contact/
