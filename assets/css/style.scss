@@ -783,4 +783,284 @@ body::before {
 
 /* End Mobile Navigation & Content Overlap Fixes */
 
+/* --- Professional Projects Page Layout --- */
+.project-highlight {
+  background: rgba(17, 17, 17, 0.8);
+  border: 1px solid #003300;
+  border-radius: 8px;
+  padding: 2rem;
+  margin: 2rem 0;
+  position: relative;
+}
+
+.project-highlight::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 2px;
+  background: #00ff41;
+}
+
+.project-highlight h3 {
+  color: #00ff41 !important;
+  margin-top: 0;
+  margin-bottom: 1rem;
+  font-size: 1.5rem;
+}
+
+.project-summary {
+  color: #00cc33 !important;
+  font-size: 1.1rem;
+  margin-bottom: 1.5rem;
+  font-style: italic;
+}
+
+.project-details {
+  margin: 1.5rem 0;
+}
+
+.project-details ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.project-details li {
+  padding: 0.5rem 0;
+  border-left: 3px solid #003300;
+  padding-left: 1rem;
+  margin: 0.8rem 0;
+}
+
+/* Enhanced project features list */
+.project-features {
+  list-style: none;
+  padding: 0;
+  margin: 1.5rem 0;
+}
+
+.project-features li {
+  background: rgba(0, 255, 65, 0.05);
+  border: 1px solid rgba(0, 255, 65, 0.2);
+  border-radius: 8px;
+  padding: 1rem 1.5rem;
+  margin: 1rem 0;
+  position: relative;
+  transition: all 0.3s ease;
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+}
+
+.project-features li:hover {
+  background: rgba(0, 255, 65, 0.08);
+  border-color: rgba(0, 255, 65, 0.4);
+  transform: translateX(5px);
+}
+
+.project-features .feature-icon {
+  font-size: 1.5rem;
+  margin-top: 0.2rem;
+  flex-shrink: 0;
+}
+
+.project-features .feature-content {
+  flex: 1;
+}
+
+.project-features .feature-title {
+  color: #00ff41 !important;
+  font-weight: bold;
+  font-size: 1.1rem;
+  margin-bottom: 0.3rem;
+  display: block;
+}
+
+.project-features .feature-description {
+  color: #00cc33 !important;
+  font-size: 0.95rem;
+  line-height: 1.5;
+  margin: 0;
+}
+
+.project-tech-note {
+  background: rgba(0, 51, 0, 0.3);
+  border-left: 4px solid #00ff41;
+  padding: 1rem 1.5rem;
+  margin: 1.5rem 0;
+  border-radius: 0 8px 8px 0;
+  font-style: italic;
+}
+
+.project-tech-note::before {
+  content: "🎯 ";
+  font-style: normal;
+  margin-right: 0.5rem;
+}
+
+.project-cta {
+  text-align: center;
+  margin-top: 2rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid #003300;
+}
+
+.project-link {
+  display: inline-block;
+  background: linear-gradient(135deg, #00ff41 0%, #00cc33 100%);
+  color: #000 !important;
+  padding: 1rem 2rem;
+  border-radius: 8px;
+  text-decoration: none !important;
+  font-weight: bold;
+  font-size: 1.1rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 15px rgba(0, 255, 65, 0.2);
+}
+
+.project-link:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 25px rgba(0, 255, 65, 0.4);
+  background: linear-gradient(135deg, #00cc33 0%, #00ff41 100%);
+  text-shadow: none;
+}
+
+.project-link img {
+  margin-right: 0.8rem;
+  filter: invert(1);
+}
+
+.project-minor {
+  background: rgba(0, 51, 0, 0.2);
+  border-left: 4px solid #00ff41;
+  padding: 1.5rem;
+  margin: 1.5rem 0;
+  border-radius: 0 8px 8px 0;
+}
+
+.project-minor h3 {
+  color: #00ff41 !important;
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+.project-minor p {
+  color: #00cc33 !important;
+  margin-bottom: 0;
+}
+
+/* Section spacing */
+.projects-section {
+  margin-bottom: 3rem;
+}
+
+.projects-section h2 {
+  text-align: center;
+  margin-bottom: 2rem;
+  font-size: 2rem;
+}
+/* End Professional Projects Page Layout */
+
+/* --- Projects Page Visual Enhancements --- */
+/* Improve readability and visual appeal for projects content */
+.project-section {
+  background: linear-gradient(135deg, #0d1117 0%, #161b22 100%);
+  border: 1px solid #21262d;
+  border-radius: 8px;
+  padding: 2rem;
+  margin: 1.5rem 0;
+  box-shadow: 0 4px 16px rgba(0, 255, 65, 0.1);
+  position: relative;
+  overflow: hidden;
+}
+
+.project-section::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 3px;
+  background: linear-gradient(90deg, #00ff41, #00cc33, #00ff41);
+  opacity: 0.6;
+}
+
+.project-section h3 {
+  color: #58a6ff !important;
+  margin-top: 0;
+  font-size: 1.4rem;
+  text-shadow: 0 0 8px rgba(88, 166, 255, 0.3);
+}
+
+.project-section p {
+  color: #c9d1d9 !important;
+  line-height: 1.7;
+  margin-bottom: 1rem;
+}
+
+.project-section ul {
+  border-left: 2px solid #21262d;
+  padding-left: 1.5rem;
+}
+
+.project-section li {
+  color: #c9d1d9 !important;
+  margin-bottom: 0.8rem;
+}
+
+.project-section li strong {
+  color: #58a6ff;
+}
+
+/* GitHub link styling for better visibility */
+.project-section a {
+  display: inline-flex;
+  align-items: center;
+  background: linear-gradient(135deg, #238636 0%, #2ea043 100%);
+  color: white !important;
+  padding: 0.75rem 1.25rem;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: 600;
+  margin-top: 1rem;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 8px rgba(35, 134, 54, 0.3);
+}
+
+.project-section a:hover {
+  background: linear-gradient(135deg, #2ea043 0%, #238636 100%);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 16px rgba(35, 134, 54, 0.4);
+  text-shadow: none;
+}
+
+.project-section img {
+  margin-right: 0.5rem;
+}
+
+/* Simple project items for non-detailed projects */
+.simple-project {
+  background: rgba(33, 38, 45, 0.6);
+  border: 1px solid #21262d;
+  border-radius: 6px;
+  padding: 1.5rem;
+  margin: 1rem 0;
+  border-left: 4px solid #00ff41;
+}
+
+.simple-project h3 {
+  color: #00ff41 !important;
+  margin-top: 0;
+  margin-bottom: 0.8rem;
+}
+
+.simple-project p {
+  color: #c9d1d9 !important;
+  margin-bottom: 0;
+}
+/* End Projects Page Visual Enhancements */
+
 @import "minima";
