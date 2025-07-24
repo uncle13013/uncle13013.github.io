@@ -4,8 +4,6 @@ title: "Projects"
 permalink: /portfolio/
 ---
 
-# Projects
-
 <div class="projects-section" markdown="1">
 
 ## Active Projects
@@ -20,7 +18,7 @@ permalink: /portfolio/
 
 <ul class="project-features">
 <li>
-<span class="feature-icon">🖥️</span>
+<span class="feature-icon">🔗</span>
 <div class="feature-content">
 <span class="feature-title">Multi-Machine Architecture</span>
 <p class="feature-description">High-availability cluster distributed across HP Omen laptop and Toshiba Satellite using Vagrant + VirtualBox</p>

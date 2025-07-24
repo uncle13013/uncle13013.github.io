@@ -1,10 +1,8 @@
 ---
 layout: page
-title: "About"
+title: "About Me"
 permalink: /about/
 ---
-
-# About Me
 
 <a href="https://jims-resume.s3.us-east-1.amazonaws.com/ResumeJuly2025.pdf" class="btn big-btn" target="_blank" rel="noopener">⬇️ Download My Resume (PDF)</a>
 
