@@ -8,7 +8,7 @@ permalink: /portfolio/
 
 ## Active Projects
 
-### [Jim's Kubernetes Home Lab](https://github.com/uncle13013/jims-k8s-home-lab)
+### Jim's Kubernetes Home Lab
 A complete Kubernetes home lab setup running on repurposed hardware. This project includes:
 - Multi-node Kubernetes cluster configuration
 - Infrastructure as Code using Terraform and Ansible
@@ -17,6 +17,8 @@ A complete Kubernetes home lab setup running on repurposed hardware. This projec
 - Security hardening and best practices
 
 Built to refresh and sharpen my Kubernetes skills while studying for KCA/KCS certifications.
+
+**[→ Check it out on GitHub](https://github.com/uncle13013/jims-k8s-home-lab)**
 
 ### AI in Developer Workflows
 Using tools like GitHub Copilot to better understand how developers leverage AI in real-world coding and automation scenarios.
