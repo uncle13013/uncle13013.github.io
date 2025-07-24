@@ -922,10 +922,10 @@ body::before {
 }
 
 .project-link:hover {
-  transform: translateY(-3px);
-  box-shadow: 0 8px 25px rgba(0, 255, 65, 0.4);
-  background: linear-gradient(135deg, #00cc33 0%, #00ff41 100%);
-  text-shadow: none;
+  background: #000 !important;
+  color: #00ff41 !important;
+  box-shadow: 0 0 30px #00ff41;
+  text-shadow: 0 0 8px #00ff41;
 }
 
 .project-link img {

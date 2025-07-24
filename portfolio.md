@@ -39,7 +39,7 @@ permalink: /portfolio/
 <span class="feature-icon">🎯</span>
 <div class="feature-content">
 <span class="feature-title">Infrastructure as Code</span>
-<p class="feature-description">Built to demonstrate IaC principles and gain hands-on experience for Kubernetes certifications</p>
+<p class="feature-description">Built to demonstrate IaC principles and gain hands-on experience for CKA/CKS exams</p>
 </div>
 </li>
 </ul>
