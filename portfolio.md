@@ -65,7 +65,7 @@ Using tools like GitHub Copilot to better understand how developers leverage AI 
 <div class="project-minor" markdown="1">
 
 ### Red Team & OSCP Prep
-Working through TryHackMe exercises to gain hands-on red team experience as I work toward a long-term goal of taking the OSCP exam.
+Working through TryHackMe and [HackTheBox](https://app.hackthebox.com/profile/uncle13013) exercises to gain hands-on red team experience as I work toward a long-term goal of taking the OSCP exam.
 
 </div>
 
