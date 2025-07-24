@@ -54,6 +54,6 @@ Junior Intelligence Analyst
 ---
 
 ## Education & Certifications
-- B.S. Computer Science — University of Kentucky (2012)
+- B.S. Computer Science, *magna cum laude* — University of Kentucky (2012)
 - CISSP — ISC² (2023) [View Badge](https://www.credly.com/badges/d29461ef-2d85-4101-a649-f298950e0377)
 - AWS Certified Cloud Practitioner (2025) [View Badge](https://www.credly.com/badges/e7d78e57-8e22-4445-b479-5695d1a12f45)
