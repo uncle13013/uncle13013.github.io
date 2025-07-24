@@ -9,6 +9,9 @@ permalink: /portfolio/
 ## Active Projects
 
 ### Jim's Kubernetes Home Lab
+
+**[<img src="https://github.com/favicon.ico" width="16" height="16" style="vertical-align: middle;"> Check it out on GitHub](https://github.com/uncle13013/jims-k8s-home-lab)**
+
 A 6-node Kubernetes cluster running across two physical machines using Infrastructure as Code principles. Key highlights:
 
 - **Multi-machine setup**: High-availability cluster distributed across HP Omen laptop and Toshiba Satellite using Vagrant + VirtualBox
@@ -17,7 +20,6 @@ A 6-node Kubernetes cluster running across two physical machines using Infrastru
 
 Built to demonstrate enterprise-grade virtualization and gain hands-on experience for Kubernetes certifications.
 
-**[<img src="https://github.com/favicon.ico" width="16" height="16" style="vertical-align: middle;"> Check it out on GitHub](https://github.com/uncle13013/jims-k8s-home-lab)**
 
 ### AI in Developer Workflows
 Using tools like GitHub Copilot to better understand how developers leverage AI in real-world coding and automation scenarios.
